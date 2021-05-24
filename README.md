@@ -3,7 +3,7 @@ Data analysis and visualization project to predict car prices based on used car 
 
 AUTOMOBILE COMPANY YEARLY GROWTH ANALYSIS
 
-IN THIS PROJECT WE HAVE DONE THE DETAILED "AUTOMOBILE COMPANY YEARLY GROWTH ANALYSIS" :
+In this project we have done the detailed "AUTOMOBILE COMPANY YEARLY GROWTH ANALYSIS" :
 
 IT IS DIVIDED INTO FOUR MAIN SECTIONS:
 
@@ -21,3 +21,5 @@ TECHNOLOGY / FRAMEWORK / LIBRARIES USED:
 4. SEABORN
 5. PYTHON
 
+If Github doesn't let you open the .pynb jupyter notebook (happens commonly) here is the url to open it
+https://nbviewer.jupyter.org/github/shivabhadoriya/analysis-project/blob/main/tnp%20project.ipynb
