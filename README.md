@@ -21,7 +21,7 @@ TECHNOLOGY / FRAMEWORK / LIBRARIES USED:
 4. SEABORN
 5. PYTHON
 
-Added the .ppt presentation file to show what actually we have done in this project
+Added the pdf version of .ppt presentation slides to show what actually we have done in this project
 
 Added the data set .csv file to have an idea about the data set
 
