@@ -21,5 +21,11 @@ TECHNOLOGY / FRAMEWORK / LIBRARIES USED:
 4. SEABORN
 5. PYTHON
 
+Added the .ppt presentation file to show what actually we have done in this project
+
+Added the data set .csv file to have an idea about the data set
+
+Added the .ipnb jupyter note book file in which we have done all the coding part
+
 If Github doesn't let you open the .pynb jupyter notebook (happens commonly) here is the url to open it
 https://nbviewer.jupyter.org/github/shivabhadoriya/analysis-project/blob/main/tnp%20project.ipynb
